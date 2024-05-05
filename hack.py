@@ -27,7 +27,7 @@ sleep(3)
 # username = webdriver.find_element_by_name('scheril Ryl')
 username = webdriver.find_element(by=By.NAME, value = 'username')
 
-username.send_keys('scheril Ryl') # write the username of account you want to hack.
+username.send_keys('randall') # write the username of account you want to hack.
 
 # password = webdriver.find_element_by_name('password')
 password = webdriver.find_element(by=By.NAME, value = 'password')
